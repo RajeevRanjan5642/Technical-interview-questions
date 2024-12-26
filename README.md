@@ -92,3 +92,47 @@ Miscellaneous:
 3. What is the purpose of the this keyword in OOP?
 4. How does OOP improve software development?
 5. What are some common pitfalls in OOP design?
+
+## CN
+
+Basic Concepts:
+1. What is a computer network and why is it important?
+2. What are the different types of computer networks?
+3. Explain the OSI model and its layers.
+4. What is the difference between TCP and UDP?
+5. What is an IP address, and how is it structured?
+
+Network Devices and Protocols:
+1. What is a router and how does it work?
+2. What is the difference between a hub, switch, and router?
+3. Explain the purpose of DHCP and how it works.
+4. What is DNS and how does it resolve domain names?
+5. Can you describe what ARP (Address Resolution Protocol) does?
+
+Advanced Topics:
+1. What is subnetting and why is it important?
+2. Explain the concept of VLANs (Virtual LANs).
+3. What are VPNs (Virtual Private Networks), and how do they work?
+4. What is network topology, and what are the different types?
+5. Can you explain the purpose and working of NAT (Network Address Translation)?
+
+Security:
+1. What are the different types of network security threats?
+2. How do firewalls work, and what types are there?
+3. What is the purpose of IDS (Intrusion Detection Systems) and IPS (Intrusion Prevention Systems)?
+4. Explain the concept of encryption and its importance in networking.
+5. What are some common network security protocols?
+
+Troubleshooting and Performance:
+1. How do you troubleshoot a network connectivity issue?
+2. What tools do you use for network monitoring and diagnostics?
+3. Can you explain the concept of bandwidth and latency?
+4. What is a packet sniffer, and how is it used?
+5. How would you improve network performance?
+
+Practical Questions:
+1. Describe the process of setting up a home or office network.
+2. How would you secure a wireless network?
+3. Explain how load balancing works in a network.
+4. Can you demonstrate how to configure a router or switch?
+5. What is the importance of Quality of Service (QoS) in a network?
