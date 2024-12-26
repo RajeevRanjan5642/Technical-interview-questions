@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b4537a2-00ab-4017-aa62-e9995da5d6a1)
+![image](https://github.com/user-attachments/assets/61507fa9-c77b-4b95-8926-28d860dcb86f)
 
 ## DBMS
 
