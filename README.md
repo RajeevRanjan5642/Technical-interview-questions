@@ -49,3 +49,46 @@
 23. Can you explain the concept of file permissions in Unix/Linux?
 24. What are the differences between user mode and kernel mode?
 25. Describe the differences between logical and physical addresses.
+
+## OOPS
+
+Basic OOP Concepts:
+1. What are the four main principles of Object-Oriented Programming?
+2. Can you explain the concept of a class and an object?
+3. What is inheritance and how does it work in OOP?
+4. What is polymorphism and how is it implemented in OOP?
+5. What is encapsulation and why is it important?
+6. Can you explain the concept of abstraction in OOP?
+
+Advanced OOP Topics:
+1. What are the different types of inheritance?
+2. What is method overloading and method overriding?
+3. Can you explain the concept of an interface and how it differs from a class?
+4. What is a constructor and what is its purpose?
+5. What is the difference between a constructor and a destructor?
+6. What are access specifiers and what are their types?
+7. What is a static method and how does it differ from an instance method?
+8. Can you explain the concept of multiple inheritance and how it is implemented?
+
+Design Patterns and Principles:
+1. What are design patterns in OOP? Can you name a few commonly used design patterns?
+2. Can you explain the Singleton pattern and provide an example?
+3. What is the Factory pattern and how is it used?
+4. What is the Observer pattern and where would you use it?
+5. Can you explain the Model-View-Controller (MVC) pattern?
+6. What are SOLID principles in OOP and why are they important?
+7. Can you explain the Dependency Injection principle?
+
+Practical Questions:
+1. Write a code example to demonstrate inheritance in OOP.
+2. How would you implement polymorphism in a given scenario?
+3. Design a class hierarchy for a vehicle management system.
+4. Explain how you would handle exceptions in an OOP language like Java or C++.
+5. Can you show how to use encapsulation to protect class data?
+
+Miscellaneous:
+1. What is the difference between composition and inheritance?
+2. Can you explain the difference between an abstract class and an interface?
+3. What is the purpose of the this keyword in OOP?
+4. How does OOP improve software development?
+5. What are some common pitfalls in OOP design?
