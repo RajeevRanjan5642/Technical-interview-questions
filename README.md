@@ -1,4 +1,4 @@
-# DBMS-interview-questions
+## DBMS
 
 1. What is DBMS? How is it different from an RDBMS?
 2. Explain the three levels of data abstraction in DBMS.
@@ -21,3 +21,31 @@
    - List different types of NoSQL databases (document, key-value, column, graph).
 16. What are the advantages and disadvantages of using NoSQL over SQL databases?
 17. What is MongoDB, and how does it manage data differently from traditional RDBMS?
+
+## OS
+
+1. What are the main functions of an operating system?
+2. Explain the concept of virtual memory and its benefits.
+3. How does a process differ from a thread?
+4. What is a system call, and how does it function?
+5. What is the difference between a monolithic kernel and a microkernel?
+6. How does the operating system manage memory?
+7. What is paging in the context of memory management?
+8. Can you explain what a context switch is?
+9. What is a semaphore, and how is it used in process synchronization?
+10. What are deadlocks, and how can they be prevented or resolved?
+11. Describe the concept of multithreading and its advantages.
+12. What is the difference between preemptive and non-preemptive scheduling?
+13. Explain the difference between internal and external fragmentation.
+14. How do file systems work in an operating system?
+15. What is demand paging, and how does it operate?
+16. What is a real-time operating system (RTOS), and where is it used?
+17. How does an operating system handle interrupts?
+18. What is the role of a scheduler in an operating system?
+19. Explain the concept of process synchronization.
+20. What are the various states of a process in an operating system?
+21. How do you manage memory leaks in an operating system?
+22. What is a bootstrap program, and what role does it play?
+23. Can you explain the concept of file permissions in Unix/Linux?
+24. What are the differences between user mode and kernel mode?
+25. Describe the differences between logical and physical addresses.
