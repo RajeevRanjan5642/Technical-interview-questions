@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0b4537a2-00ab-4017-aa62-e9995da5d6a1)
+
 ## DBMS
 
 1. What is DBMS? How is it different from an RDBMS?
