@@ -138,3 +138,46 @@ Practical Questions:
 3. Explain how load balancing works in a network.
 4. Can you demonstrate how to configure a router or switch?
 5. What is the importance of Quality of Service (QoS) in a network?
+   
+## HR Round
+
+General Questions:
+1. Tell me about yourself.
+2. Why do you want to work for our company?
+3. What are your strengths and weaknesses?
+4. Why did you leave your last job?
+5. Where do you see yourself in five years?
+6. Why should we hire you?
+7. Can you describe a challenging situation you faced at work and how you handled it?
+8. What are your salary expectations?
+
+Behavioral Questions:
+1. Describe a time when you had to work as part of a team. How did you contribute?
+2. Tell me about a time when you faced a conflict at work. How did you resolve it?
+3. Can you give an example of a goal you set and how you achieved it?
+4. Describe a situation where you had to take initiative.
+5. How do you handle stress and pressure?
+
+Situational Questions:
+1. What would you do if you were given a task that you didn’t know how to complete?
+2. How would you handle a situation where you disagreed with your supervisor?
+3. If you were faced with a tight deadline, how would you ensure you met it?
+4. How would you approach a situation where you had to work with a difficult colleague?
+
+Questions about Skills and Experience:
+1. What skills do you bring to this role?
+2. Can you describe your experience with [specific skill or technology]?
+3. What projects have you worked on that are relevant to this position?
+4. How do you stay updated with the latest industry trends and developments?
+
+Company-Specific Questions:
+1. What do you know about our company and our products/services?
+2. Why do you think you are a good fit for our company culture?
+3. How do you think you can contribute to our company's goals and objectives?
+
+Questions You Might Want to Ask:
+1. Can you tell me more about the team I’ll be working with?
+2. What does a typical day look like in this role?
+3. What are the company's growth plans and how does this role contribute to them?
+4. What opportunities are there for professional development?
+5. What are the next steps in the interview process?
