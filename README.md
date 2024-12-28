@@ -62,7 +62,7 @@ Basic OOP Concepts:
          - Data Hiding : Use private access modifiers to restrict the access of data from outside the class.
       2. Abstraction : Hiding the unnecessary details and providing only essential information.
          - Data Binding : Binding up of application UI and business logic. Any changes made in business logic will be directly reflected in application UI.
-      3. Inheritance : The process in which an object inherits all the properties and behaviors of its parent object automatically.
+      3. Inheritance : The process in which an object aquires all the properties and behaviors of its parent object automatically.
          - reusability
       4. Polymorphism : The ability of objects to take on different forms or behave in different ways depending on the context in which they are used.
          - function overloading and operator overloading
