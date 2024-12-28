@@ -56,11 +56,21 @@
 
 Basic OOP Concepts:
 1. What are the four main principles of Object-Oriented Programming?
-2. Can you explain the concept of a class and an object?
-3. What is inheritance and how does it work in OOP?
-4. What is polymorphism and how is it implemented in OOP?
-5. What is encapsulation and why is it important?
-6. Can you explain the concept of abstraction in OOP?
+Ans : The four main pillars of OOPS are:
+      1. Encapsulation : The wrapping up of data and member functions in a single unit called class.
+         - Data Hiding : Use private access modifiers to restrict the access of data from outside the class.
+      2. Abstraction : Hiding the unnecessary details and providing only essential information.
+         - Data Binding : Binding up of application UI and business logic. Any changes made in business logic will be directly reflected in application UI.
+      3. Inheritance : The process in which an object inherits all the properties and behaviors of its parent object automatically.
+         - reusability
+      4. Polymorphism : The ability of objects to take on different forms or behave in different ways depending on the context in which they are used.
+         - function overloading and operator overloading
+
+3. Can you explain the concept of a class and an object?
+4. What is inheritance and how does it work in OOP?
+5. What is polymorphism and how is it implemented in OOP?
+6. What is encapsulation and why is it important?
+7. Can you explain the concept of abstraction in OOP?
 
 Advanced OOP Topics:
 1. What are the different types of inheritance?
