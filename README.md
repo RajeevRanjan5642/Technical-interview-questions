@@ -56,6 +56,7 @@
 
 Basic OOP Concepts:
 1. What are the four main principles of Object-Oriented Programming?
+
 Ans : The four main pillars of OOPS are:
       1. Encapsulation : The wrapping up of data and member functions in a single unit called class.
          - Data Hiding : Use private access modifiers to restrict the access of data from outside the class.
